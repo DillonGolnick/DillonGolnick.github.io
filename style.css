@@ -1,1 +1,36 @@
-// CSS Rulesheet
+    /* This is the css ruleset */
+
+    h1 {
+        font-family: monospace;
+        font-size: 75px;
+        font-weight: bold;
+        color: khaki;
+        text-align: center;
+        
+    }
+
+    h4 {
+        font-family: 'Lucida Sans';
+        text-align: center;
+        color: slategray
+    }
+
+    table, td, th, tr {
+        border: 1px solid;
+        text-align: start;
+        margin: 0 auto;
+        font-family: monospace;
+    }
+
+    th {
+        background-color: lightsalmon;
+    }
+
+    h2 {
+        color: burlywood;
+        text-align: center;
+    }
+
+    .tag {
+        background-color: blanchedalmond;
+    }
