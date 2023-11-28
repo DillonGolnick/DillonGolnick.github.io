@@ -35,7 +35,8 @@
         background-color: blanchedalmond;
     }
 
-    h3 {
-        display: inline;
+    .nav { 
         text-align: center;
-    }
+        display: inline;
+
+}
