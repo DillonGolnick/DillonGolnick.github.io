@@ -12,7 +12,7 @@
     h4 {
         font-family: 'Lucida Sans';
         text-align: center;
-        color: slategray
+        color: slategray;
     }
 
     table, td, th, tr {
@@ -35,8 +35,14 @@
         background-color: blanchedalmond;
     }
 
-    .nav { 
-        text-align: center;
-        display: inline;
+ .nav li a {
+    color: blue;
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+}
 
+.nav a:hover {
+    color: red;
+    
 }
