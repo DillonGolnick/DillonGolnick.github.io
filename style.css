@@ -34,3 +34,7 @@
     .tag {
         background-color: blanchedalmond;
     }
+
+    h3 {
+        display: inline;
+    }
