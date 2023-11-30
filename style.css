@@ -35,14 +35,13 @@
         background-color: blanchedalmond;
     }
 
- .nav li a {
-    color: blue;
+ .nav li {
     display: inline;
-    text-align: center;
+    margin: auto;
     text-decoration: none;
 }
 
-.nav a:hover {
-    color: red;
-    
-}
+.nav li+li::before {
+    color: gray;
+    content: ">";
+  }
