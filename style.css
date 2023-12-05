@@ -37,8 +37,9 @@
 
  .nav li {
     display: inline;
-    margin: auto;
+    margin: 5px;
     text-decoration: none;
+    text-align: center;
 }
 
 .nav li+li::before {
